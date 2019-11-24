@@ -1,0 +1,11 @@
+C:\Users\rlua\OneDrive - Novozymes A S\Documents\github\Reaction game\reaction-game_C-sharp\bin\Debug\netcoreapp3.0\reaction-game_C-sharp.exe
+C:\Users\rlua\OneDrive - Novozymes A S\Documents\github\Reaction game\reaction-game_C-sharp\bin\Debug\netcoreapp3.0\reaction-game_C-sharp.deps.json
+C:\Users\rlua\OneDrive - Novozymes A S\Documents\github\Reaction game\reaction-game_C-sharp\bin\Debug\netcoreapp3.0\reaction-game_C-sharp.runtimeconfig.json
+C:\Users\rlua\OneDrive - Novozymes A S\Documents\github\Reaction game\reaction-game_C-sharp\bin\Debug\netcoreapp3.0\reaction-game_C-sharp.runtimeconfig.dev.json
+C:\Users\rlua\OneDrive - Novozymes A S\Documents\github\Reaction game\reaction-game_C-sharp\bin\Debug\netcoreapp3.0\reaction-game_C-sharp.dll
+C:\Users\rlua\OneDrive - Novozymes A S\Documents\github\Reaction game\reaction-game_C-sharp\bin\Debug\netcoreapp3.0\reaction-game_C-sharp.pdb
+C:\Users\rlua\OneDrive - Novozymes A S\Documents\github\Reaction game\reaction-game_C-sharp\obj\Debug\netcoreapp3.0\reaction-game_C-sharp.csprojAssemblyReference.cache
+C:\Users\rlua\OneDrive - Novozymes A S\Documents\github\Reaction game\reaction-game_C-sharp\obj\Debug\netcoreapp3.0\reaction-game_C-sharp.AssemblyInfoInputs.cache
+C:\Users\rlua\OneDrive - Novozymes A S\Documents\github\Reaction game\reaction-game_C-sharp\obj\Debug\netcoreapp3.0\reaction-game_C-sharp.AssemblyInfo.cs
+C:\Users\rlua\OneDrive - Novozymes A S\Documents\github\Reaction game\reaction-game_C-sharp\obj\Debug\netcoreapp3.0\reaction-game_C-sharp.dll
+C:\Users\rlua\OneDrive - Novozymes A S\Documents\github\Reaction game\reaction-game_C-sharp\obj\Debug\netcoreapp3.0\reaction-game_C-sharp.pdb

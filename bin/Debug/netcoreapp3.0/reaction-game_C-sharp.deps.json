@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "reaction-game_C-sharp/1.0.0": {
+        "runtime": {
+          "reaction-game_C-sharp.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "reaction-game_C-sharp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
